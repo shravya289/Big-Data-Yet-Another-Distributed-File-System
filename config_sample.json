@@ -1,0 +1,30 @@
+{
+    "CONFIG": "/home/pes2ug21cs451/bd_project/demo/config/config_sample.json",
+    "CLEANUP": 1,
+    "BLOCK_SIZE": 64,  
+    "BLOCK_SIZE_UNIT": 1.0,  
+    "PATH_TO_DATANODES": "/home/pes2ug21cs451/bd_project/demo/DATANODE",
+    "PATH_TO_NAMENODES": "/home/pes2ug21cs451/bd_project/demo/NAMENODE/",
+    "REPLICATION_FACTOR": 3,
+    "NUM_DATANODES": 5,
+    "DATANODE_SIZE": 100,
+    "SYNC_PERIOD": 60,
+    "DATANODE_LOG_PATH": "/home/pes2ug21cs451/bd_project/demo/DATANODE/DATANODE_LOGS/",
+    "NAMENODE_LOG_PATH": "/home/pes2ug21cs451/bd_project/demo/NAMENODE/NAMENODE_LOG.txt",
+    "CONFIG_LOG_PATH": "CONFIG.txt",
+    "NAMENODE_CHECKPOINTS_PATH": "/home/pes2ug21cs451/bd_project/demo/NAMENODE/CHECKPOINTS/",
+    "FS_PATH": "/home/pes2ug21cs451/bd_project/demo/DFS/FILE_SYSTEM/",
+    "DFS_SETUP_CONFIG": "../config/dfs_setup.json",
+    "PRIMARY_NAMENODE_NAME": "PRIMARY_NAMENODE",
+    "SECONDARY_NAMENODE_NAME": "SECONDARY_NAMENODE",
+    "FILE_INFO_FILENAME": "FILE_INFO.json",
+    "BLOCK_INFO_FILENAME": "BLOCK_INFO.json",
+    "DATANODE_INFO_FILENAME": "DATANODE_INFO.json",
+    "FILESYSTEM_INFO_FILENAME": "FILESYSTEM_INFO.json",
+    "TIMESTAMP": "2023-11-20 12:22:42.376747+05:30",
+    "NUM_LOAD": 4,
+    "ROOT_FOLDER": "root"  
+}
+
+
+
